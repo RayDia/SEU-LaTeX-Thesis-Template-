@@ -14,4 +14,4 @@ SEU LaTeX Thesis Template
 ## 配置 LaTeX 工作环境
 * win - [Texstudio2016](http://texstudio.sourceforge.net/) 
 
-ps: textstudio[安装教程](https://blog.csdn.net/qq_38386316/article/details/80272396)
+* textstudio[安装教程](https://blog.csdn.net/qq_38386316/article/details/80272396)
